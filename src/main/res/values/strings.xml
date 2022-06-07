@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sum app</string>
+    <string name="myresult">Result</string>
+    <string name="mysum">SUM</string>
+    <string name="numberone">number one</string>
+    <string name="numbertwo">number two</string>
+</resources>
